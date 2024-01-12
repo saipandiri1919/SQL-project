@@ -39,3 +39,23 @@ This project serves as a valuable resource for researchers, analysts, and policy
 
 - **Documentation:** Provide comprehensive documentation covering data sources, database schema, ETL procedures, and any automation scripts used.
 
+
+# Nashville Housing Data Cleaning Project
+
+This project focuses on cleaning and preparing Nashville Housing data sourced from an Excel file using MySQL. The goal is to transform raw data into a clean and organized format for further analysis and insights.
+
+## Overview
+
+The Nashville Housing Data Cleaning Project involves the following key steps:
+
+1. **Data Importation:** Load the Nashville Housing data from the provided Excel file into a MySQL database.
+
+2. **Exploratory Data Analysis (EDA):** Understand the structure of the dataset, identify missing values, anomalies, and inconsistencies.
+
+3. **Data Cleaning:** Implement data cleaning procedures to address missing values, standardize formats, and handle outliers.
+
+4. **Database Optimization:** Design and implement an optimized MySQL database schema to store the cleaned data efficiently.
+
+5. **Documentation:** Provide comprehensive documentation on the data cleaning process, database schema, and any considerations for analysis.
+
+
